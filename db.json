@@ -1,0 +1,226 @@
+{
+  "books": [
+    {
+      "id": "c55ff50e-4417-4ef6-8d83-afab0d3315cf",
+      "title": "Wedding Planner, The",
+      "publishedDate": "3/15/2018",
+      "authorName": "Claudina Taffe"
+    },
+    {
+      "id": "ae262202-7d47-4c96-b9f7-df896e119dea",
+      "title": "Marrying Kind, The",
+      "publishedDate": "4/5/2018",
+      "authorName": "Beverley Blenkharn"
+    },
+    {
+      "id": "2e094129-e0db-4d43-9f50-6ba9ec9e85c8",
+      "title": "Farewell to Arms, A",
+      "publishedDate": "11/30/2017",
+      "authorName": "Cherlyn Yitzhakof"
+    },
+    {
+      "id": "40dd2895-9c05-44cc-9d51-bcd17a623b7f",
+      "title": "Lo",
+      "publishedDate": "11/21/2017",
+      "authorName": "Rayner Goundry"
+    },
+    {
+      "id": "5073f105-6887-49da-8b5a-da17c23b0ca3",
+      "title": "Without Warning",
+      "publishedDate": "9/16/2017",
+      "authorName": "Gleda Birkinshaw"
+    },
+    {
+      "id": "04d3e406-4c10-4700-96d2-a5dcfc36f67e",
+      "title": "Host, The (Gwoemul)",
+      "publishedDate": "10/22/2017",
+      "authorName": "Giana Tithecote"
+    },
+    {
+      "id": "a881cee2-8cb5-494d-9064-e2c94dbcebfc",
+      "title": "Autumn Afternoon, An (Sanma no aji)",
+      "publishedDate": "12/8/2017",
+      "authorName": "Shantee Harbar"
+    },
+    {
+      "id": "dfc70313-df75-4f39-9cec-db3f52272e97",
+      "title": "Confess",
+      "publishedDate": "3/30/2018",
+      "authorName": "Lawry Tingly"
+    },
+    {
+      "id": "b092e942-0d87-4192-9a97-f2c53795f5f9",
+      "title": "In Vogue: The Editor?s Eye",
+      "publishedDate": "7/14/2018",
+      "authorName": "Hali Graffham"
+    },
+    {
+      "id": "a91b2051-614d-4cf5-888d-062640747bdf",
+      "title": "What's Up, Doc?",
+      "publishedDate": "1/14/2018",
+      "authorName": "Hattie Foulsham"
+    },
+    {
+      "id": "84bea474-3919-4139-82a7-c8e484a87681",
+      "title": "Teahouse of the August Moon, The",
+      "publishedDate": "8/16/2017",
+      "authorName": "Michael Graber"
+    },
+    {
+      "id": "0579ffb4-1612-430f-9291-7a970a45e01b",
+      "title": "Secrets of a Soul (Geheimnisse einer Seele)",
+      "publishedDate": "10/21/2017",
+      "authorName": "Micky Antill"
+    },
+    {
+      "id": "69dba987-7562-48db-8782-df7c8c70ada9",
+      "title": "Conspirators of Pleasure (Spiklenci slasti)",
+      "publishedDate": "7/12/2018",
+      "authorName": "Becka Hoofe"
+    },
+    {
+      "id": "0e289a9d-4a5a-44be-b0d6-d035899b3197",
+      "title": "Happiest Days of Your Life, The",
+      "publishedDate": "4/18/2018",
+      "authorName": "Daryn Gallard"
+    },
+    {
+      "id": "2175f973-c9be-4028-8a20-1993099137fd",
+      "title": "Chris Rock: Bring the Pain",
+      "publishedDate": "4/27/2018",
+      "authorName": "Kane Ladson"
+    },
+    {
+      "id": "2a433cc3-dcb0-4417-935f-8f0319907424",
+      "title": "Paid in Full",
+      "publishedDate": "11/28/2017",
+      "authorName": "Trudie Sandercock"
+    },
+    {
+      "id": "d457c9ff-8129-44bf-934b-8e038cf30c3f",
+      "title": "Out California Way",
+      "publishedDate": "1/8/2018",
+      "authorName": "Orlando Ingolotti"
+    },
+    {
+      "id": "c2ac4568-c894-4883-b04f-409be762fdb7",
+      "title": "South of Heaven, West of Hell",
+      "publishedDate": "7/29/2017",
+      "authorName": "Bel Blowing"
+    },
+    {
+      "id": "3efb8f7d-1918-4ec6-b348-06d5e4d8602a",
+      "title": "Bela Kiss: Prologue",
+      "publishedDate": "2/18/2018",
+      "authorName": "Pattin Dossit"
+    },
+    {
+      "id": "8a4edd42-e24a-4f28-bc74-ab8b2c38fcc2",
+      "title": "I Feel Sleepy",
+      "publishedDate": "7/2/2018",
+      "authorName": "Amata O'Nowlan"
+    },
+    {
+      "id": "e84689f0-4bee-4e45-bf9f-2156618acca8",
+      "title": "All of Me",
+      "publishedDate": "9/4/2017",
+      "authorName": "Kamillah McCunn"
+    },
+    {
+      "id": "5517220c-e9b1-4442-acd4-0dab07aed946",
+      "title": "Lost Battalion, The",
+      "publishedDate": "1/3/2018",
+      "authorName": "Garfield Kingsnode"
+    },
+    {
+      "id": "28d4a6a1-e7b3-4287-b9a2-efb5a217f27c",
+      "title": "Freedomfighters (Libertarias)",
+      "publishedDate": "2/27/2018",
+      "authorName": "Alfreda McGraith"
+    },
+    {
+      "id": "9b674184-76f8-48fa-aab0-b330be1141ef",
+      "title": "Stander",
+      "publishedDate": "11/10/2017",
+      "authorName": "Adam Costigan"
+    },
+    {
+      "id": "ad86a00c-9f26-4b5b-a02b-e9e7e4b873f2",
+      "title": "Unsaid, The",
+      "publishedDate": "10/18/2017",
+      "authorName": "Gonzales Pettican"
+    },
+    {
+      "id": "a153abca-fc09-410f-9d2a-58357eaef56d",
+      "title": "Phyllis and Harold",
+      "publishedDate": "2/10/2018",
+      "authorName": "Westleigh Maunder"
+    },
+    {
+      "id": "4cadabbc-be93-47b7-9efd-bc6d7e797b83",
+      "title": "Close My Eyes",
+      "publishedDate": "5/31/2018",
+      "authorName": "Josie Ahrend"
+    },
+    {
+      "id": "884e04d1-4c8c-4b5e-b4ea-c6c3c6ff884a",
+      "title": "Nickelodeon",
+      "publishedDate": "9/14/2017",
+      "authorName": "Teresina Tregien"
+    },
+    {
+      "id": "58a54a35-ff1d-47cc-9910-9bcb2fa7bde4",
+      "title": "White Darkness, The",
+      "publishedDate": "12/12/2017",
+      "authorName": "Had Livingstone"
+    },
+    {
+      "id": "0d304c9d-fe2c-4b59-9a36-00c92765c82d",
+      "title": "Cabin Fever",
+      "publishedDate": "9/8/2017",
+      "authorName": "Matthew Milham"
+    },
+    {
+      "id": "004d4bae-bd07-4cbf-8167-507fd9f39865",
+      "title": "Haunted House 2, A",
+      "publishedDate": "3/5/2018",
+      "authorName": "Tanner Latch"
+    },
+    {
+      "id": "1c885f43-f8bf-4178-8a58-698cbf54bd98",
+      "title": "Nightmare on Elm Street, A",
+      "publishedDate": "8/15/2017",
+      "authorName": "Stanwood Wharin"
+    },
+    {
+      "id": "0fbc4fac-cb15-4f2b-8606-ea833e840fc2",
+      "title": "MacGruber",
+      "publishedDate": "11/5/2017",
+      "authorName": "Cchaddie Matthieson"
+    },
+    {
+      "id": "6fc8bb5d-b154-49ea-a26d-b14822664bb6",
+      "title": "Putin's Kiss",
+      "publishedDate": "7/21/2017",
+      "authorName": "Raleigh Amaya"
+    },
+    {
+      "id": "af9b07b8-3cad-4691-bdd9-9a5335d07e1f",
+      "title": "Dr. Giggles",
+      "publishedDate": "6/8/2018",
+      "authorName": "Natty Cheson"
+    },
+    {
+      "id": "7d3ab2de-ffff-4137-bde1-af99d41a24bc",
+      "title": "Eddie Izzard: Glorious",
+      "publishedDate": "3/26/2018",
+      "authorName": "Sarajane Blaby"
+    },
+    {
+      "id": "ad89cca6-6401-4bdf-9ab4-62e5eac0b4d3",
+      "title": "Curb Dance",
+      "publishedDate": "10/21/2017",
+      "authorName": "Wallas Morrill"
+    }
+  ]
+}
